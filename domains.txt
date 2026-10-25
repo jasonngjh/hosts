@@ -1,0 +1,31 @@
+# Ad & tracker domains for Pi-hole (hosts format build)
+# Sources: live request capture on ad-heavy streaming sites, Oct 2026.
+# Pi-hole blocks subdomains of a listed domain, so registrable domains only.
+# Add one domain per line. Blank lines and # comments are ignored.
+
+# ExoClick
+magsrv.com
+exoclick.com
+
+# TrafficStars
+tsyndicate.com
+trafficstars.com
+greentrafsa.com
+
+# Clickadu native / in-page push (rotating hostnames)
+clickadu.com
+clickadu.net
+fozekikikiminu.com
+juneworewyjyna.com
+hpyjmp.com
+pxltag.com
+uuidksinc.net
+clammyendearedkeg.com
+
+# HilltopAds
+ptelastaxo.com
+hilltopads.net
+
+# Popunder / cam ads
+mnaspm.com
+topcams.tv
